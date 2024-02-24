@@ -1,2 +1,2 @@
 # DevopsProject
-This will be repo for simple Devops Project - to learn something new 
+This will be repo for simple Devops Projects - to learn something new 
